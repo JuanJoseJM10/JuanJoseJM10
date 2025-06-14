@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Juan José
 
 🎓 Tengo 14 años y estoy aprendiendo **desarrollo web** con la academia [Master-Mind](https://academiamastermind.com/) de Nate Gentile.  
