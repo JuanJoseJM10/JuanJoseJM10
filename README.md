@@ -1,38 +1,38 @@
-# Reconstruimos el archivo tras el reinicio del entorno
-
 # 👋 ¡Hola! Soy Juan José
 
-🎓 Tengo 14 años y actualmente estudio **desarrollo web** en [Platzi](https://platzi.com).  
-💻 Me apasiona la programación y construir proyectos útiles.
+🎓 Tengo 14 años y estudio **programación e inteligencia artificial** en [Platzi](https://platzi.com).  
+🤖 Me apasiona aprender cómo las máquinas pueden pensar, aprender y ayudar al mundo.
 
 ---
 
-## 🚀 Actualmente aprendiendo
+## 🧠 Actualmente aprendiendo
 
-- HTML, CSS y JavaScript  
 - Fundamentos de Python  
-- Principios de backend y bases de datos  
-- Buenas prácticas de desarrollo web  
+- Introducción a la inteligencia artificial  
+- Algoritmos y lógica computacional  
+- Aplicaciones básicas de IA  
 
 ---
 
-## 🛠️ Herramientas que estoy usando
+## 🛠️ Herramientas y tecnologías
 
-![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Control-Git-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Repositorio-GitHub-black?logo=github)
 
 ---
 
-## 📈 Objetivos a corto y mediano plazo
+## 🎯 Objetivos personales
 
-- Completar rutas de desarrollo web en Platzi  
-- Crear proyectos propios y compartirlos en GitHub  
-- Mejorar cada semana con constancia y práctica  
+- Comprender cómo funciona la IA desde cero  
+- Crear mis propios proyectos con Python  
+- Participar en comunidades tecnológicas  
+- Aprender todos los días algo nuevo sobre IA  
 
 ---
 
 ## 🤝 Conectemos
 
-Estoy abierto a aprender, colaborar y crecer en este mundo tech. ¡Gracias por visitar mi perfil! 🙌
+Me encanta aprender, colaborar y compartir lo que descubro sobre inteligencia artificial. ¡Gracias por visitar mi perfil! 🙌
 """
