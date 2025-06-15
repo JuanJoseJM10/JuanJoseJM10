@@ -1,7 +1,10 @@
+# Reconstruimos el archivo tras el reinicio del entorno
+
+readme_content = """
 # 👋 ¡Hola! Soy Juan José
 
-🎓 Tengo 14 años y estoy aprendiendo **desarrollo web** con la academia [Master-Mind](https://academiamastermind.com/) de Nate Gentile.  
-💻 Me enfoco en **frontend**, **backend** y el mundo de la **programación web**.
+🎓 Tengo 14 años y actualmente estudio **desarrollo web** en [Platzi](https://platzi.com).  
+💻 Me apasiona la programación y construir proyectos útiles.
 
 ---
 
@@ -10,7 +13,7 @@
 - HTML, CSS y JavaScript  
 - Fundamentos de Python  
 - Principios de backend y bases de datos  
-- Buenas prácticas de desarrollo  
+- Buenas prácticas de desarrollo web  
 
 ---
 
@@ -24,13 +27,20 @@
 
 ## 📈 Objetivos a corto y mediano plazo
 
-- Terminar la ruta web de Master-Mind  
-- Construir proyectos propios y compartirlos  
-- Crear un portafolio online en GitHub  
-- Seguir aprendiendo y mejorar cada semana  
+- Completar rutas de desarrollo web en Platzi  
+- Crear proyectos propios y compartirlos en GitHub  
+- Mejorar cada semana con constancia y práctica  
 
 ---
 
 ## 🤝 Conectemos
 
 Estoy abierto a aprender, colaborar y crecer en este mundo tech. ¡Gracias por visitar mi perfil! 🙌
+"""
+
+# Guardar como archivo README.md actualizado
+readme_path = "/mnt/data/README_JuanJose_GitHub.md"
+with open(readme_path, "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+readme_path
