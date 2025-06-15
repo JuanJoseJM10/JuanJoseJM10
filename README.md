@@ -37,10 +37,3 @@ readme_content = """
 
 Estoy abierto a aprender, colaborar y crecer en este mundo tech. ¡Gracias por visitar mi perfil! 🙌
 """
-
-# Guardar como archivo README.md actualizado
-readme_path = "/mnt/data/README_JuanJose_GitHub.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
