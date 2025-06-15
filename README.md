@@ -1,6 +1,5 @@
 # Reconstruimos el archivo tras el reinicio del entorno
 
-readme_content = """
 # 👋 ¡Hola! Soy Juan José
 
 🎓 Tengo 14 años y actualmente estudio **desarrollo web** en [Platzi](https://platzi.com).  
