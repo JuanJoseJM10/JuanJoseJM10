@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan José
 
-🎓 Tengo 14 años y estudio **programación e inteligencia artificial** en [Platzi](https://platzi.com).  
+🎓 Tengo 14 años y estudio **programación e inteligencia artificial**.  
 🤖 Me apasiona aprender cómo las máquinas pueden pensar, aprender y ayudar al mundo.
 
 ---
