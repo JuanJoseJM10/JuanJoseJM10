@@ -1,37 +1,32 @@
-# 👋 ¡Hola! Soy Juan José
+👋 ¡Hola! Soy Juan José
 
-🎓 Tengo 14 años y estudio **programación e inteligencia artificial**.  
-🤖 Me apasiona aprender cómo las máquinas pueden pensar, aprender y ayudar al mundo.
+🎓 Tengo 14 años y estudio programación, enfocándome especialmente en Python.  
+🐍 Me gusta explorar cómo usar este lenguaje para crear cosas útiles y aprender cómo funciona el mundo digital.
 
 ---
 
-## 🧠 Actualmente aprendiendo
+🧠 Actualmente aprendiendo
 
 - Fundamentos de Python  
-- Introducción a la inteligencia artificial  
 - Algoritmos y lógica computacional  
-- Aplicaciones básicas de IA  
+- Introducción al pensamiento computacional  
 
 ---
 
-## 🛠️ Herramientas y tecnologías
+🛠️ Herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Control-Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Repositorio-GitHub-black?logo=github)
+Python
 
 ---
 
-## 🎯 Objetivos personales
+🎯 Mi proyección
 
-- Comprender cómo funciona la IA desde cero  
-- Crear mis propios proyectos con Python  
-- Participar en comunidades tecnológicas  
-- Aprender todos los días algo nuevo sobre IA  
+Estoy en proceso de descubrir qué área de la tecnología me apasiona más.  
+Por ahora, disfruto aprender, probar ideas con código y crecer paso a paso mientras encuentro mi camino.
 
 ---
 
-## 🤝 Conectemos
+🤝 Conectemos
 
-Me encanta aprender, colaborar y compartir lo que descubro sobre inteligencia artificial. ¡Gracias por visitar mi perfil! 🙌
-"""
+Siempre estoy abierto a aprender y compartir lo que voy descubriendo.  
+¡Gracias por pasarte por aquí! 🙌
