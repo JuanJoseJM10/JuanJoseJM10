@@ -15,7 +15,9 @@
 
 🛠️ Herramientas
 
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Control-Git-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Repositorio-GitHub-black?logo=github)
 
 ---
 
