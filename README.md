@@ -23,12 +23,13 @@
 
 🎯 Mi proyección
 
-Estoy en proceso de descubrir qué área de la tecnología me apasiona más.  
-Por ahora, disfruto aprender, probar ideas con código y crecer paso a paso mientras encuentro mi camino.
+En este momento me encuento en la escuela, pero mi objetivo academico es conseguir el título de ingeniero
+en ciencia de datos. Antes llegar a la edad universitaria me gustaria hacer una tecnica en programacion de sofware
+en el sena
 
 ---
 
 🤝 Conectemos
-
+juanjosejm2010@gmail.com
 Siempre estoy abierto a aprender y compartir lo que voy descubriendo.  
 ¡Gracias por pasarte por aquí! 🙌
