@@ -25,7 +25,7 @@
 
 En este momento me encuento en la escuela, pero mi objetivo academico es conseguir el título de ingeniero
 en ciencia de datos. Antes llegar a la edad universitaria me gustaria hacer una tecnica en programacion de sofware
-en el sena
+en el sena.
 
 ---
 
