@@ -1,35 +1,36 @@
-👋 ¡Hola! Soy Juan José
+# 👋 Hola, soy Juan José
 
-🎓 Tengo 14 años y estudio programación, enfocándome especialmente en Python.  
-🐍 Me gusta explorar cómo usar este lenguaje para crear cosas útiles y aprender cómo funciona el mundo digital.
-
----
-
-🧠 Actualmente aprendiendo
-
-- Fundamentos de Python  
-- Algoritmos y lógica computacional  
-- Introducción al pensamiento computacional  
+Tengo **14 años** y soy estudiante con interés en **ingeniería de datos**, **tecnología** y **desarrollo en Python**.
+Me apasiona aprender cómo funcionan los sistemas y cómo usar los datos para generar valor real.
+Busco desarrollar una base sólida en programación, análisis y automatización.
 
 ---
 
-🛠️ Herramientas
+## 💻 Tecnologías y herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Control-Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Repositorio-GitHub-black?logo=github)
-
----
-
-🎯 Mi proyección
-
-En este momento me encuento en la escuela, pero mi objetivo academico es conseguir el título de ingeniero
-en ciencia de datos. Antes llegar a la edad universitaria me gustaria hacer una tecnica en programacion de sofware
-en el sena.
+- **Lenguajes:** Python, Bash
+- **Sistemas operativos:** Linux (Ubuntu)
+- **Herramientas:** Git, VS Code, terminal
+- **En aprendizaje:** SQL, análisis de datos, visualización y automatización
 
 ---
 
-🤝 Conectemos
-juanjosejm2010@gmail.com
-Siempre estoy abierto a aprender y compartir lo que voy descubriendo.  
-¡Gracias por pasarte por aquí! 🙌
+## 🚀 Proyectos destacados
+
+Próximamente añadiré mis primeros proyectos aquí.
+
+---
+
+## 📊 Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanJoseJM10&show_icons=true&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseJM10&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contacto
+
+- 📧 [juanjo@example.com](mailto:juanjo@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/JuanJoseJM10)
+
+---
