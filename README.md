@@ -30,7 +30,7 @@ Próximamente añadiré mis primeros proyectos aquí.
 
 ## 📫 Contacto
 
-- 📧 [juanjo@example.com](mailto:juanjo@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/JuanJoseJM10)
+- 📧 [juanjosejm2010@gmail.com](juanjosejm2010@gmail.com])
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-jose-jimenez2010/)
 
 ---
