@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan José
 
-Tengo **15 años** y soy estudiante con interés en **ingeniería de datos**, **tecnología** y **desarrollo en Python**.
+Tengo **16 años** y soy estudiante con interés en **ingeniería de datos**, **tecnología** y **desarrollo en Python**.
 Me apasiona aprender cómo funcionan los sistemas y cómo usar los datos para generar valor real.
 Busco desarrollar una base sólida en programación, análisis y automatización.
 
